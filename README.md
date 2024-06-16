@@ -4,7 +4,7 @@ This project creates a task list that can be updated, removed, and completed, or
 
 # User Guide
 
-To run the project dowload all the files in the java folder and run the Duke.java file.
+To run the project dowload all the files in the main folder, and run the Duke.java file within the java folder.
 
 ## Features 
 
